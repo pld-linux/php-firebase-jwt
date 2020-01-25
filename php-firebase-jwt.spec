@@ -1,5 +1,4 @@
 %define		php_min_version 5.3.0
-%include	/usr/lib/rpm/macros.php
 Summary:	PHP-JWT
 Name:		php-firebase-jwt
 Version:	4.0.0
